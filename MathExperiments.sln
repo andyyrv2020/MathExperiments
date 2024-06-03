@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFunctions", "..\MathFun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorsLength", "..\VectorsLength\VectorsLength.csproj", "{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsSystem", "..\ListsSystem\ListsSystem.csproj", "{760E81D6-C070-4C0D-9CAF-342DD7CDFD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinatoricsOperations", "..\CombinatoricsOperations\CombinatoricsOperations.csproj", "{A74A8FF0-529D-4B67-B1B9-5FEF8A5E6202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760E81D6-C070-4C0D-9CAF-342DD7CDFD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760E81D6-C070-4C0D-9CAF-342DD7CDFD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760E81D6-C070-4C0D-9CAF-342DD7CDFD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760E81D6-C070-4C0D-9CAF-342DD7CDFD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74A8FF0-529D-4B67-B1B9-5FEF8A5E6202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74A8FF0-529D-4B67-B1B9-5FEF8A5E6202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74A8FF0-529D-4B67-B1B9-5FEF8A5E6202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74A8FF0-529D-4B67-B1B9-5FEF8A5E6202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
