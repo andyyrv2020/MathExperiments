@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralSystem", "NumeralSystem.csproj", "{8A2C4734-23B0-4258-A74E-D6E4C3C07192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumeralSystem", "NumeralSystem.csproj", "{8A2C4734-23B0-4258-A74E-D6E4C3C07192}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsForm", "..\..\Statistics2AndreyRashev\StatisticsForm.csproj", "{8102043E-EA04-48E4-8F24-9E62375437B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixCalculations", "..\MatrixCalculations\MatrixCalculations.csproj", "{4383F980-A45F-41A3-B9B5-79BC8D01C400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixCalculations", "..\MatrixCalculations\MatrixCalculations.csproj", "{4383F980-A45F-41A3-B9B5-79BC8D01C400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFunctions", "..\MathFunctions\MathFunctions.csproj", "{EEE3364A-7C34-44AD-A091-70A997A292D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorsLength", "..\VectorsLength\VectorsLength.csproj", "{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE3364A-7C34-44AD-A091-70A997A292D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE3364A-7C34-44AD-A091-70A997A292D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE3364A-7C34-44AD-A091-70A997A292D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE3364A-7C34-44AD-A091-70A997A292D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89D67D5-D49B-4E5C-AFF4-2E45A5FF1FFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
