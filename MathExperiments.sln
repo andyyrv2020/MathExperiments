@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralSystem", "NumeralSys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsForm", "..\..\Statistics2AndreyRashev\StatisticsForm.csproj", "{8102043E-EA04-48E4-8F24-9E62375437B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixCalculations", "..\MatrixCalculations\MatrixCalculations.csproj", "{4383F980-A45F-41A3-B9B5-79BC8D01C400}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8102043E-EA04-48E4-8F24-9E62375437B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8102043E-EA04-48E4-8F24-9E62375437B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8102043E-EA04-48E4-8F24-9E62375437B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4383F980-A45F-41A3-B9B5-79BC8D01C400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
